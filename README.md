@@ -1,6 +1,6 @@
 # Explorando Dados De Bicileta com Pandas
 ## Finalidade
-Repositório criado para exercitar o uso da biblioteca Pandas, utilizando os mesmos dados do projeto "Explorando dados de bicicletas compartilhadas".
+Repositório criado para exercitar o uso da biblioteca Pandas, utilizando os mesmos dados do projeto [Explorando dados de bicicletas compartilhadas](https://github.com/lucasalmeiidaa/Projeto-Udacity-Explorando-dados-de-bicicletas-compartilhadas).
 
 ⚠ **Código feito para rodar em IDLE ou prompt**
 
