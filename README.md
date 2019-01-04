@@ -11,4 +11,4 @@ Para rodar o programa, abra o prompt de comando ou o Anaconda prompt e navegue a
 
 `python pandas_p1.py`
 
-
+⚠ **É necessário possuir o arquivo csv disponibilizado no Nanodegree Fundamentos de Machine Learning da Udacity**
